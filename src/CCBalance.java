@@ -13,7 +13,7 @@ public class CCBalance {
         creditCardBalance = creditCardBalance + twoMonthBalance;
 
         //Display Output
-        System.out.println("The interest due after one month is $" + oneMonthBalance + " and the balance due after two months is $" + twoMonthBalance + ".");
+        System.out.println("The interest due after one month is $" + oneMonthBalance + " and the interest due after two months is $" + twoMonthBalance + ".");
 
         }
 
